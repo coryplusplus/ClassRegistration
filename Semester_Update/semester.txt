@@ -1,0 +1,73 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+
+using System.Text;
+using System.Windows.Forms;
+
+namespace DeviceApplication2
+{
+    public partial class Semester : Form
+    {
+        
+        public static string term = "";
+        private static List<string> semester_list = new List<string>();
+        public static string selectedTerm = " ";
+        public Semester()
+        {
+            InitializeComponent();
+
+            File_IO.request_semester();
+
+            for (int i = 0; i < semester_list.Count; i++)
+            {
+                listBox1.Items.Add(semester_list[i]);
+            }
+        }
+
+        private void quitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+        public static void append_semester(string x)
+        {
+            semester_list.Add(x);
+        }
+
+        public static void setTerm(string x)
+        {
+            term = x;
+        }
+        public static string getTerm()
+        {
+            return term;
+        }
+        public static void setSelectedTerm(string s)
+        {
+            selectedTerm = s;
+        }
+        public string getSelectedTerm()
+        {
+            return selectedTerm;
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            int selectedIndex = listBox1.SelectedIndex;
+            if (selectedIndex == -1)
+            {
+                MessageBox.Show("Please select a semester");
+            }
+            else
+            {
+                setSelectedTerm(listBox1.SelectedItem.ToString());
+                File_IO.request_selected_sem();
+                Main_Menu main_menu_form = new Main_Menu();
+                main_menu_form.Show();
+                this.Hide();
+            }
+        }
+    }
+}

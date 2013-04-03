@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ClassInfo> <!--Need to go through and make a bunch of classes-->
+  <Class>
+    <select>NR</select>
+    <CRN>48613</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>150</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>2.00</Credit>
+    <Title>Programming I</Title>
+    <Days>MW</Days>
+    <StartTime>12:00</StartTime>
+    <EndTime>12:50</EndTime>
+    <Capacity>60</Capacity>
+    <Actual>48</Actual>
+    <Remaining>12</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Madhav R. Rao</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>EE 111</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+   <Class>
+    <select>C</select>
+    <CRN>48614</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>150</CourseNum>
+    <Section>002</Section>
+    <Campus>Main</Campus>
+    <Credit>2.00</Credit>
+    <Title>Programming I</Title>
+    <Days>MW</Days>
+    <StartTime>12:00</StartTime>
+    <EndTime>12:50</EndTime>
+    <Capacity>40</Capacity>
+    <Actual>370</Actual>
+    <Remaining>13</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Madhav R. Rao</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>EE111</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+   <Class>
+    <select>NR</select>
+    <CRN>48618</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>160</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>1.00</Credit>
+    <Title>Computer Science Concepts</Title>
+    <Days>F</Days>
+    <StartTime>10:00</StartTime>
+    <EndTime>11:50</EndTime>
+    <Capacity>48</Capacity>
+    <Actual>47</Actual>
+    <Remaining>1</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Monica D. Anderson</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>EE 111</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>48620</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>160</CourseNum>
+    <Section>004</Section>
+    <Campus>Main</Campus>
+    <Credit>1.00</Credit>
+    <Title>Computer Science Concepts</Title>
+    <Days>F</Days>
+    <StartTime>10:00</StartTime>
+    <EndTime>11:50</EndTime>
+    <Capacity>48</Capacity>
+    <Actual>48</Actual>
+    <Remaining>0</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Monica D. Anderson</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>HC F0205</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>48622</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>160</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>2.00</Credit>
+    <Title>Programming II</Title>
+    <Days>TR</Days>
+    <StartTime>11:00</StartTime>
+    <EndTime>11:50</EndTime>
+    <Capacity>45</Capacity>
+    <Actual>30</Actual>
+    <Remaining>15</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Ralph E. Hooper</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>EE111</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>1104742</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>415</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Software Development</Title>
+    <Days>MW</Days>
+    <StartTime>2:00</StartTime>
+    <EndTime>3:15</EndTime>
+    <Capacity>45</Capacity>
+    <Actual>30</Actual>
+    <Remaining>15</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Randy Smith</Instructor>
+    <StartDate>8/26/09</StartDate>
+    <EndDate>12/12/09</EndDate>
+    <Location>SEC3437</Location>
+    <Attribute>W</Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>50557</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>260</CourseNum>
+    <Section>003</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Foundatinos of Computer Science</Title>
+    <Days>TR</Days>
+    <StartTime>2:30</StartTime>
+    <EndTime>4:45</EndTime>
+    <Capacity>10</Capacity>
+    <Actual>10</Actual>
+    <Remaining>0</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>John C. Lusth</Instructor>
+    <StartDate>8/26/09</StartDate>
+    <EndDate>12/12/09</EndDate>
+    <Location>HO112</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>42851</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>325</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Software Development Systems</Title>
+    <Days>TR</Days>
+    <StartTime>9:30</StartTime>
+    <EndTime>10:45</EndTime>
+    <Capacity>48</Capacity>
+    <Actual>48</Actual>
+    <Remaining>0</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Nathan M. Wiegand</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>EE111</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>47049</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>340</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Legal and Ethical Issues in Computers</Title>
+    <Days>TR</Days>
+    <StartTime>2:00</StartTime>
+    <EndTime>3:15</EndTime>
+    <Capacity>62</Capacity>
+    <Actual>60</Actual>
+    <Remaining>2</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Ralph E. Hooper</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>LY337</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>42852</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>357</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Data Structures</Title>
+    <Days>MWF</Days>
+    <StartTime>9:00</StartTime>
+    <EndTime>9:50</EndTime>
+    <Capacity>50</Capacity>
+    <Actual>23</Actual>
+    <Remaining>27</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Susan V. Vrbsky</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>LY321</Location>
+    <Attribute>CS</Attribute>
+  </Class>
+  <Class>
+    <select></select>
+    <CRN>42855</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>415</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Software Design and Development</Title>
+    <Days>MW</Days>
+    <StartTime>2:00</StartTime>
+    <EndTime>3:15</EndTime>
+    <Capacity>35</Capacity>
+    <Actual>24</Actual>
+    <Remaining>11</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Randy Smith</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>SEC3437</Location>
+    <Attribute>W</Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>41139</CRN>
+    <Subject>CJ</Subject>
+    <CourseNum>100</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Intro to Criminal Justice</Title>
+    <Days>MWF</Days>
+    <StartTime>8:00</StartTime>
+    <EndTime>8:50</EndTime>
+    <Capacity>50</Capacity>
+    <Actual>44</Actual>
+    <Remaining>6</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Quanda W. Stevenson</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>FA116</Location>
+    <Attribute></Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>41140</CRN>
+    <Subject>CJ</Subject>
+    <CourseNum>100</CourseNum>
+    <Section>990</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Intro to Criminal Justice</Title>
+    <Days>T</Days>
+    <StartTime>5:00</StartTime>
+    <EndTime>7:50</EndTime>
+    <Capacity>50</Capacity>
+    <Actual>50</Actual>
+    <Remaining>0</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Quanda W. Stevenson</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>FA116</Location>
+    <Attribute></Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>45914</CRN>
+    <Subject>CJ</Subject>
+    <CourseNum>240</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Juvenile Delinquency</Title>
+    <Days>TR</Days>
+    <StartTime>8:00</StartTime>
+    <EndTime>9:15</EndTime>
+    <Capacity>45</Capacity>
+    <Actual>43</Actual>
+    <Remaining>2</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Rebecca J. Howell</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>FA120</Location>
+    <Attribute></Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>41156</CRN>
+    <Subject>CJ</Subject>
+    <CourseNum>250</CourseNum>
+    <Section>901</Section>
+    <Campus>Online</Campus>
+    <Credit>3.00</Credit>
+    <Title>Judicial Process</Title>
+    <Days></Days>
+    <StartTime></StartTime>
+    <EndTime></EndTime>
+    <Capacity>50</Capacity>
+    <Actual>47</Actual>
+    <Remaining>3</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Jimmy J. Williams</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>ONLINE</Location>
+    <Attribute></Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>43312</CRN>
+    <Subject>AY</Subject>
+    <CourseNum>101</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Intro to Astronomy</Title>
+    <Days>MWF</Days>
+    <StartTime>9:00</StartTime>
+    <EndTime>9:50</EndTime>
+    <Capacity>154</Capacity>
+    <Actual>95</Actual>
+    <Remaining>59</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Ronald Buta</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>GL227</Location>
+    <Attribute>Natural Science</Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>43316</CRN>
+    <Subject>AY</Subject>
+    <CourseNum>102</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>1.00</Credit>
+    <Title>Intro Astronomy Lab</Title>
+    <Days>M</Days>
+    <StartTime>12:00</StartTime>
+    <EndTime>2:50</EndTime>
+    <Capacity>26</Capacity>
+    <Actual>25</Actual>
+    <Remaining>1</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>James A. Pepper, Philip Hardee</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>GL313</Location>
+    <Attribute>Natural Science</Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>46220</CRN>
+    <Subject>AY</Subject>
+    <CourseNum>203</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>2.00</Credit>
+    <Title>Observational Astronomy</Title>
+    <Days>R</Days>
+    <StartTime>7:00</StartTime>
+    <EndTime>9:50</EndTime>
+    <Capacity>15</Capacity>
+    <Actual>11</Actual>
+    <Remaining>4</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Ronald Buta</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>GL313</Location>
+    <Attribute>Natural Science</Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>48502</CRN>
+    <Subject>BSC</Subject>
+    <CourseNum>108</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>4.00</Credit>
+    <Title>Intro Biology Non-Majors I</Title>
+    <Days>TR</Days>
+    <StartTime>2:00</StartTime>
+    <EndTime>3:15</EndTime>
+    <Capacity>223</Capacity>
+    <Actual>223</Actual>
+    <Remaining>0</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Kimberly S. Lackey</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>BY 127</Location>
+    <Attribute>Natural Science</Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>48502</CRN>
+    <Subject>BSC</Subject>
+    <CourseNum>108</CourseNum>
+    <Section>002</Section>
+    <Campus>Main</Campus>
+    <Credit>4.00</Credit>
+    <Title>Intro Biology Non Majors I</Title>
+    <Days>MWF</Days>
+    <StartTime>10:00</StartTime>
+    <EndTime>10:50</EndTime>
+    <Capacity>142</Capacity>
+    <Actual>140</Actual>
+    <Remaining>2</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Julie B. Olson</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>BY 127</Location>
+    <Attribute>Natural Science</Attribute>
+  </Class>
+  <Class>
+    <select>NR</select>
+    <CRN>42328</CRN>
+    <Subject>BSC</Subject>
+    <CourseNum>109</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>4.00</Credit>
+    <Title>Intro Biology Non Majors II</Title>
+    <Days>MWF</Days>
+    <StartTime>11:00</StartTime>
+    <EndTime>11:50</EndTime>
+    <Capacity>350</Capacity>
+    <Actual>273</Actual>
+    <Remaining>77</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Jane F. Rasco</Instructor>
+    <StartDate>8/19/09</StartDate>
+    <EndDate>12/04/09</EndDate>
+    <Location>SEC2412</Location>
+    <Attribute>Natural Science</Attribute>
+  </Class>
+  <Class>
+    <select>C</select>
+    <CRN>1104742</CRN>
+    <Subject>CS</Subject>
+    <CourseNum>415</CourseNum>
+    <Section>001</Section>
+    <Campus>Main</Campus>
+    <Credit>3.00</Credit>
+    <Title>Software Development</Title>
+    <Days>MW</Days>
+    <StartTime>2:00</StartTime>
+    <EndTime>3:15</EndTime>
+    <Capacity>45</Capacity>
+    <Actual>30</Actual>
+    <Remaining>15</Remaining>
+    <WaitListCap>999</WaitListCap>
+    <WaitListAct>0</WaitListAct>
+    <WaitListRem>999</WaitListRem>
+    <Instructor>Randy Smith</Instructor>
+    <StartDate>8/26/09</StartDate>
+    <EndDate>12/12/09</EndDate>
+    <Location>SEC3437</Location>
+    <Attribute>W</Attribute>
+  </Class>
+ 
+</ClassInfo>
